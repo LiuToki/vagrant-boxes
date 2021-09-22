@@ -21,9 +21,11 @@
 - [LICENSE](#license)
 
 # How to use
-1. Look at the following templates list.
+1. Look at the following box list.
 1. Switch branch what you want to use.
 1. Clone or download zip.
+
+If you want to use all boxes, clone master branch.
 
 # Box list
 
